@@ -1,0 +1,14 @@
+
+
+========Git=========
+
+
+git is a version control system
+
+Git== storage code
+
+github/gitlab/bitbucket
+
+remote repository-cloud
+
+local repository-laptop
